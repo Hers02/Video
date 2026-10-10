@@ -5,6 +5,7 @@ Guía: [`colab/COMO_USAR.md`](colab/COMO_USAR.md) — notebook de Google Colab c
 
 ## Videos
 
+- `videos/monito_copion_v2.mp4` — misma idea con voz humana de IA (Chatterbox, código abierto); audio en `videos/voz_monito_copion.mp3`.
 - `videos/monito_copion.mp4` — el monito copión diciendo "¡Hola! ¿Qué tal? Soy el monito copión."
   Hecho gratis, sin APIs pagas: voz con `espeak-ng` (subida de tono con `ffmpeg`) y boca animada
   según el volumen del audio con `scripts/hablar_animal.py` (OpenCV).
